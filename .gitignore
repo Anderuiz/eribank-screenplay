@@ -1,0 +1,10 @@
+.gradle/
+build/
+target/
+.idea/
+*.iml
+out/
+src/test/resources/app/*.apk
+test-output.log
+history/
+_to_delete/
